@@ -9,7 +9,7 @@
         <hoby>
             <name>swimming</name>
             <level>master</level>
-            <isActive>true</isActive>
+            <isActive>false</isActive>
         </hoby>
         <hoby>
             <name>hockey</name>
