@@ -10,7 +10,7 @@ Student:
       - name: hockey
         level: middle
         isActive: true
-      - name: backetball
+      - name: volleyball
         level: new
         isActive: false
   work:
