@@ -1,0 +1,29 @@
+{
+  "student": {
+    "name" : "Yuliia",
+    "surname": "Sokolova",
+    "age": 34
+  },
+  "hobbies": {
+    "hoby": [
+      {
+        "name" : "swimming",
+        "level": "master",
+        "isActual": true
+      },
+      {
+        "name" : "hockey",
+        "level": "middle",
+        "isActual": true
+      },
+      {
+        "name" : "backetball",
+        "level": "new",
+        "isActual": false
+      }
+    ]
+  },
+  "work": {
+    "employed": true
+  }
+}

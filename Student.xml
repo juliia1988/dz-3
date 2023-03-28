@@ -1,0 +1,28 @@
+<?xml version = "1.0" encoding = "UTF-8" ?>
+<people>
+    <student>
+        <name>Yuliia</name>
+        <surname>Sokolova</surname>
+        <age>34</age>
+    </student>
+    <hobbies>
+        <hoby>
+            <name>swimming</name>
+            <level>master</level>
+            <isActive>true</isActive>
+        </hoby>
+        <hoby>
+            <name>hockey</name>
+            <level>middle</level>
+            <isActive>true</isActive>
+        </hoby>
+        <hoby>
+            <name>backetball</name>
+            <level>new</level>
+            <isActive>false</isActive>
+        </hoby>
+    </hobbies>
+    <work>
+        <employed>true</employed>
+    </work>
+</people>

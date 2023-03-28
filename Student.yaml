@@ -1,0 +1,18 @@
+Student:
+  name: Yuliia
+  surname: Sokolova
+  age: 34
+  hobbies:
+    hoby:
+      - name: swimming
+        level: master
+        isActive: true
+      - name: hockey
+        level: middle
+        isActive: true
+      - name: backetball
+        level: new
+        isActive: false
+  work:
+    employed: true
+
