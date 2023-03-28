@@ -6,7 +6,7 @@ Student:
     hoby:
       - name: swimming
         level: master
-        isActive: true
+        isActive: false
       - name: hockey
         level: middle
         isActive: true

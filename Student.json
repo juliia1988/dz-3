@@ -9,7 +9,7 @@
       {
         "name" : "swimming",
         "level": "master",
-        "isActual": true
+        "isActual": false
       },
       {
         "name" : "hockey",
